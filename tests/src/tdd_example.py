@@ -18,4 +18,3 @@ class TDDExample():
 
     def count_digits(self, input_list: list, number_to_be_counted: int) -> int:
         return input_list.count(number_to_be_counted)
-
